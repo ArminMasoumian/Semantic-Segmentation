@@ -44,3 +44,9 @@ model = SemanticSegmentationModel(input_shape, num_classes)
 
 # Compile the model
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+
+## Results
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ArminMasoumian/Semantic-Segmentation/blob/main/LICENSE) file for details.
