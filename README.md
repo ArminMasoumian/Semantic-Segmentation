@@ -49,6 +49,8 @@ model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accur
 
 ## Results
 
+![](https://github.com/ArminMasoumian/Semantic-Segmentation/blob/main/Semantic%20Segmentation.jpg)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/ArminMasoumian/Semantic-Segmentation/blob/main/LICENSE) file for details.
