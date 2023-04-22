@@ -45,6 +45,8 @@ model = SemanticSegmentationModel(input_shape, num_classes)
 # Compile the model
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
+```
+
 ## Results
 
 ## License
